@@ -1,6 +1,6 @@
 module github.com/0xdl07/golib
 
-go 1.23.0
+go 1.21
 
 require (
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
